@@ -1,0 +1,17 @@
+.classpath
+.project
+.settings
+bin
+logs
+.idea/
+.vscode/
+*.iml
+*.bak
+*.log
+*.old
+*.pdf
+/data/
+/rsc/*.properties
+/rsc/*.pref
+/rsc/*.xml
+/target/
